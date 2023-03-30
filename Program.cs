@@ -288,3 +288,8 @@ static void sleepTime(int millis, int count)
 }
 
 #endregion
+
+static void testMethod()
+{
+
+}
